@@ -1,16 +1,16 @@
-## Hi there 👋
+## Ola 👋
 
-<!--
-**kevinsilvasebastiao/kevinsilvasebastiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### sobre Kevin
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sou um desenvolvedor front-end apaixonado por tecnologia e por criar experiências digitais envolventes. Recentemente, concluí minha formação pela EBAC, onde desenvolvi projetos práticos utilizando HTML, CSS, JavaScript, React e outras tecnologias do ecossistema web. Um dos meus principais projetos foi a criação de um clone da Disney Plus, no qual recriei a interface e funcionalidades da plataforma, aprimorando minhas habilidades em desenvolvimento front-end.
+
+Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento, focando em escrever um código limpo, acessível e eficiente. Meu objetivo é criar interfaces intuitivas e responsivas que proporcionem uma ótima experiência para os usuários.
+
+Se quiser trocar uma ideia sobre tecnologia ou conhecer mais sobre meu trabalho, fique à vontade para entrar em contato! 🚀
+
+
+## Detalhes
+
+[![ Anurag's Github stats](https://github-readme-stats.vercel.app/api?username-kevinsilvasebastiao&show icons-trueßtheme-dark)](https://github.com/anuraghazra/github-readme-stats)
