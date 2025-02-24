@@ -20,3 +20,8 @@ Se quiser trocar uma ideia sobre tecnologia ou conhecer mais sobre meu trabalho,
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinsilvasebastiao&repo=cloneDisneyplus&theme=dark)](https://github.com/kevinsilvasebastiao/cloneDisneyplus)
 
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsilvasebastiao&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
