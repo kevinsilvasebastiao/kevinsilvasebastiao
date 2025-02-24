@@ -25,3 +25,7 @@ Se quiser trocar uma ideia sobre tecnologia ou conhecer mais sobre meu trabalho,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsilvasebastiao&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Contato  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Silva%20Sebastião-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-silva-sebastiao/)
+
