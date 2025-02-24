@@ -18,4 +18,5 @@ Se quiser trocar uma ideia sobre tecnologia ou conhecer mais sobre meu trabalho,
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinsilvasebastiao&repo=restaurante&theme=dark)](https://github.com/kevinsilvasebastiao/restaurante)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinsilvasebastiao&repo=cloneDisneyplus&theme=dark)](https://github.com/kevinsilvasebastiao/cloneDisneyplus)
+
