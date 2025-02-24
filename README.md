@@ -13,4 +13,5 @@ Se quiser trocar uma ideia sobre tecnologia ou conhecer mais sobre meu trabalho,
 
 ## Detalhes
 
-[![ Anurag's Github stats](https://github-readme-stats.vercel.app/api?username-kevinsilvasebastiao&show icons-trueßtheme-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsilvasebastiao&show_icons=true&theme=dark)
+
