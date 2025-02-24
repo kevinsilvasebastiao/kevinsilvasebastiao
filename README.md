@@ -11,7 +11,11 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meu conhec
 Se quiser trocar uma ideia sobre tecnologia ou conhecer mais sobre meu trabalho, fique à vontade para entrar em contato! 🚀
 
 
-## Detalhes
+### Detalhes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsilvasebastiao&show_icons=true&theme=dark)
 
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinsilvasebastiao&repo=pedrogithub2486.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
