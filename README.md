@@ -18,4 +18,4 @@ Se quiser trocar uma ideia sobre tecnologia ou conhecer mais sobre meu trabalho,
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinsilvasebastiao&repo=pedrogithub2486.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinsilvasebastiao&repo=restaurante&theme=dark)](https://github.com/kevinsilvasebastiao/restaurante)
